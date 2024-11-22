@@ -20,8 +20,3 @@ O SCRUM é um framework ágil que ajuda as equipes a entregarem produtos de form
 ## Como usar
 
 Este repositório é apenas para fins educacionais. Basta consultar o arquivo `relatorio.md` para obter o conteúdo completo.
-
-## Licença
-
-Este repositório está licenciado sob a [MIT License](LICENSE).
-
